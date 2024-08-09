@@ -1,2 +1,2 @@
-# Game-Of-Thrones
- Projeto do GOT em HTML, CSS e JAVASCRIPT
+# Game-Of-Thrones !
+ Projeto de GOT em HTML, CSS e JAVASCRIPT !
